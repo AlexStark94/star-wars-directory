@@ -51,7 +51,7 @@ A React-based web application that displays information about Star Wars characte
 
 - Browse through the list of Star Wars characters
 - Use the search bar to filter characters by name
-- Scroll down to load more characters
+- Click on Load More characters
 
 ## Contributing
 
